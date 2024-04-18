@@ -9,3 +9,4 @@ mvn spring-boot:run
 ```
 sudo sh setup.sh
 ```
+5. Lo script `auth.py` contiene lo script di autenticazione per `RestTestGen`
